@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.css"; 
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import QuesState from "./context/ques/QuesState";
 import { ToastContainer, toast } from "react-toastify";
